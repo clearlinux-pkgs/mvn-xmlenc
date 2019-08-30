@@ -4,7 +4,7 @@
 #
 Name     : mvn-xmlenc
 Version  : 0.52
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/xmlenc/xmlenc/0.52/xmlenc-0.52.jar
 Source0  : https://repo1.maven.org/maven2/xmlenc/xmlenc/0.52/xmlenc-0.52.jar
 Source1  : https://repo1.maven.org/maven2/xmlenc/xmlenc/0.52/xmlenc-0.52.pom
